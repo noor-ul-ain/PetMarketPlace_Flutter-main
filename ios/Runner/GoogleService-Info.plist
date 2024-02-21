@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>369282119341-ghnnqpeilqur908uhu5r4vass4erj6j4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.369282119341-ghnnqpeilqur908uhu5r4vass4erj6j4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>369282119341-5a677ikthhnc3vjlvduau49q7ugukas4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZ9ViBF9HVX5nR1fxhUnPoH6PrhbyX0iY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>369282119341</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sprintsolutions.petmarketstoreapp</string>
+	<key>PROJECT_ID</key>
+	<string>pet-marketplace-324008</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pet-marketplace-324008.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>DATABASE_URL</key>
+	<string>https://flutter-store-ecommerce.firebaseio.com</string>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:369282119341:ios:8ae7b623ef9aca3e533824</string>
+</dict>
+</plist>

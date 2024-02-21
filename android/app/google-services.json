@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "369282119341",
+    "project_id": "pet-marketplace-324008",
+    "storage_bucket": "pet-marketplace-324008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369282119341:android:1ee700885a75d737533824",
+        "android_client_info": {
+          "package_name": "com.sprintsolutions.petmarketstoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369282119341-vufk76p9ji5rcgipjf271k30fubdkdg4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sprintsolutions.petmarketstoreapp",
+            "certificate_hash": "9fa3ba3e74fac86dbd8d23fc5f35d8f5a6690137"
+          }
+        },
+        {
+          "client_id": "369282119341-i92mp7qh2qid04eni6rrp3plqb6s0nkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwdshe2qvhS6KYga-HWfrhgyOpKW5AOUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369282119341-i92mp7qh2qid04eni6rrp3plqb6s0nkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

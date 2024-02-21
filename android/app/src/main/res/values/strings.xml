@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pets Market Buy, Sell &amp; Adopt</string>
+    <string name="facebook_app_id">000000000000000</string>
+
+    <string name="fb_login_protocol_scheme">fb000000000000000</string>
+
+    <string name="android__admob_ads_id_key">ca-app-pub-3277569984508629~5540567993</string>
+
+    <string name="google_map_key">AIzaSyCwdshe2qvhS6KYga-HWfrhgyOpKW5AOUk</string>
+    
+</resources>
